@@ -25,6 +25,7 @@ Stop thinking start contributing to leetcode solution
 - [ValidSudoku](https://github.com/pratikpalashikar/leetcode-solutions/blob/master/src/main/java/com/techmisal/medium/ValidSudoku.java)
 - [GroupAnagrams](https://github.com/pratikpalashikar/leetcode-solutions/blob/master/src/main/java/com/techmisal/medium/GroupAnagrams.java)
 - [NumberOfIslands](https://github.com/pratikpalashikar/leetcode-solutions/blob/master/src/main/java/com/techmisal/medium/NumberOfIslands.java)
+- [SuperUglyNumber](https://github.com/pratikpalashikar/leetcode-solutions/blob/master/src/main/java/com/techmisal/medium/SuperUglyNumber.java)
 - [MaximumProductOfWordLengths](https://github.com/pratikpalashikar/leetcode-solutions/blob/master/src/main/java/com/techmisal/medium/MaximumProductOfWordLengths.java)
 
 ### Hard
