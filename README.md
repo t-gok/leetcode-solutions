@@ -27,6 +27,7 @@ Stop thinking start contributing to leetcode solution
 - [NumberOfIslands](https://github.com/pratikpalashikar/leetcode-solutions/blob/master/src/main/java/com/techmisal/medium/NumberOfIslands.java)
 - [SuperUglyNumber](https://github.com/pratikpalashikar/leetcode-solutions/blob/master/src/main/java/com/techmisal/medium/SuperUglyNumber.java)
 - [MaximumProductOfWordLengths](https://github.com/pratikpalashikar/leetcode-solutions/blob/master/src/main/java/com/techmisal/medium/MaximumProductOfWordLengths.java)
+- [SummaryRanges](https://github.com/pratikpalashikar/leetcode-solutions/blob/master/src/main/java/com/techmisal/medium/SummaryRanges.java)
 
 ### Hard
 
